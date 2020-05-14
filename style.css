@@ -1,0 +1,178 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+#header{
+  margin: 0px;
+  margin-bottom: 15px;
+
+}
+#webname{
+  font-family: 'Pangolin', cursive;
+  font-size: 3vw;
+
+  margin: -15px;
+
+  padding:75px;
+  padding-left: 127px;
+  font-style:normal;
+  text-transform:capitalize;
+
+  left:10%;
+  background-color:#1a1aff;
+  opacity: 0.4;
+  color:#fff;
+
+z-index: 2;
+}
+.main{
+  background-color:rgba(204, 221, 255,0.7);
+
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.sec{
+
+  height: 1000%;
+  background-color:  #b6cad27d;
+  margin: -15px;
+  margin-top: 0px;
+
+  z-index: -1;
+}
+#logo{ position:absolute;
+
+    top: 0px;right:300px;
+   z-index: 3;
+  }
+
+#logo1{ position:absolute;
+
+      top: 30px;right:0px;
+        z-index: 3;
+    }
+    #logo2{ position:absolute;
+
+          top: 0px;right:50px;
+          opacity: 0.5;
+          z-index: 3;
+        }
+        #logo3{ position:absolute;
+
+              top: 0px;right:200px;
+              opacity: 0.3;
+             z-index: 3;
+            }
+            #logo4{ position:absolute;
+
+                  top: 0px;right:0px;
+                  opacity: 0.2;
+
+                }
+                #mainlogo{ position:absolute;
+
+                      top: 2px;left:5px;
+                      opacity: 1;
+                   z-index: 3;
+                    }
+
+
+.customize{
+position: relative;
+width: 100.5%;
+  background-color: #000;
+z-index: 5;
+margin: auto;
+
+}
+.menu
+{display: inline-block;
+  width:24%;
+
+}
+.customize .menubar:hover{
+background-color:#808080;
+transition: .3s;
+box-shadow: 3px 3px 3px #7a7a52;
+}
+
+
+.customize .menubar{
+
+text-align: center;
+font-family: 'Pangolin', cursive;
+
+
+ height: 45px;width: 100%;
+
+
+background-color: rgba(0, 0, 0, 0.5);
+
+color: #fff;
+
+border:0;
+}
+
+
+
+
+.offers{
+  width: 100%;
+  margin: auto;
+  margin-top: 15px;
+}
+
+.p2{
+  width:24.5%;
+  display: inline-block;
+}
+.o1{
+  width: 100%;
+  height: 120px;
+  background-size:cover !important;
+
+  background-position: center !important;
+}
+.o1:hover{
+  box-shadow: 4px 4px 4px #d5d5c3;
+  transition: 0.2s;
+
+}
+.pizzas{
+  width: 1100px;
+  margin:auto;
+  margin-top: 15px;
+
+}
+.p1{
+  width: 33%;
+
+  display: inline-block;
+  margin-bottom :8px;
+}
+
+.aimg{
+  width: 100%;
+  height:300px;
+
+  background-size: cover !important;
+background-position: center !important;
+}
+
+.p1:hover{
+  box-shadow: 4px 4px 4px #809fff;
+  transition: 0.2s;
+background-color: #809fff !important;
+}
+.names{
+  font-family: 'Pangolin', cursive;
+  font-size: 1.5vw;
+  text-align: right;
+  margin-top: -25px;
+  color: #666666;
+
+}
+.tick {
+position: relative;
+left:330px;
+top:20px;
+
+}
